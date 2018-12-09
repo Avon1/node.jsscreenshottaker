@@ -1,7 +1,7 @@
 module.exports = {
-      token: 'NTE0NTA1ODM3MTUxMjU2NTc4.DtXjDQ.vul6LQXUqkG_j5L6dROaSfreq0g',
+      token: 'NDY2NjMxODIwMjI2NTkyNzc4.Du6kIQ.b6b8CZNA5RTiyFO2ZbYy2AwGvAU',
 
-    			authorid : '485329088072908820'
+    			authorid : '440160518913654795'
    
  
 };
