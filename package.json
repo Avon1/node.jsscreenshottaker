@@ -1,17 +1,15 @@
 {
-  "name": "R4-P17",
+  "name": "node.jsscreenshottaker",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "thebot.js",
   "dependencies": {
     "cool-ascii-faces": "^1.3.4",
     "discord.js": "^11.3.2",
-    "express": "^4.16.3",
-    "opusscript": "^0.0.6"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js",
+    "start": "node thebot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
